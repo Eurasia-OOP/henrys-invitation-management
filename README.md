@@ -1,5 +1,3 @@
-Yes. Below are **three separate Markdown files**, one for each project. They use the same baseline architecture:
-
  - C# / ASP.NET Core
 - .NET 8
 - Docker Desktop + WSL2 on Windows 11
